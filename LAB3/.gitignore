@@ -1,0 +1,61 @@
+
+# =====================
+# UNITY
+# =====================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# =====================
+# BLENDER
+# =====================
+
+# Blender backup files
+*.blend1
+*.blend2
+*.blend@
+
+# Blender temporary files
+*.blend~
+*.blend_undo
+*.blend_temp
+
+# =====================
+# RIDER / VISUAL STUDIO
+# =====================
+
+.idea/
+.vs/
+*.sln.iml
+
+# =====================
+# OPERATING SYSTEM
+# =====================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================
+# TEMPORARY FILES
+# =====================
+
+*.tmp
+*.log
+*.bak
